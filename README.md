@@ -12,7 +12,7 @@
 4. Add template (pull_request_template.md) to `.github` directory for creating issue in format:
 
 ## Describe your changes
-
+ 
 ## Issue ticket number and link
 
 ## Checklist before requesting a review
